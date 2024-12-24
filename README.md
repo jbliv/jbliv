@@ -5,7 +5,7 @@ with a research focus on applied robotics.
 
 ## About Me
 
-I have experience in electronics, software, and mechanical design, and I'm passionate about the interdisciplinary nature of robotics. My goal is to develop innovative R&D solutions that improve human lives and mitigate risks[1].
+I have experience in electronics, software, and mechanical design, and I'm passionate about the interdisciplinary nature of robotics. My goal is to develop innovative R&D solutions that improve human lives and mitigate risks.
 
 ## Portfolio
 
@@ -13,4 +13,4 @@ For more information about my background and skills, please visit my portfolio w
 
 ## Get in Touch
 
-I'm always excited to collaborate on new projects or discuss innovative ideas in the field of mechanical engineering and robotics. Feel free to reach out to me through my GitHub repositories or visit my portfolio website for more information.
+I'm always excited to collaborate on new projects or discuss innovative ideas in the field of mechanical engineering and robotics. Feel free to reach out to me through email (johnlyleiv@gmail.com) or visit my portfolio website for more information.
