@@ -1,7 +1,6 @@
 # John Lyle - Mechanical Engineering Student
 
-Welcome to my GitHub profile! I'm a fourth-year mechanical engineering student at the University of Texas at Austin. I am also pursuing a Master's degree in mechanical engineering 
-with a research focus on applied robotics.
+Welcome to my GitHub profile! I'm a MS MechE student at the University of Texas at Austin focusing on dynamic systems and controls. I work as a graduate research assistant in the Nuclear and Applied Robotics Group on human-robot teaming supported by augmented reality devices.
 
 ## About Me
 
